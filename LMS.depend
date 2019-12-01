@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1575217118 source:d:\Рабочий стол\sabaq\proga\projecteng\lms\books.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Books.h"
+
+1575220732 d:\Рабочий стол\sabaq\proga\projecteng\lms\books.h
+	<string>
+
+1575221080 source:d:\Рабочий стол\sabaq\proga\projecteng\lms\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<vector>
+	<conio.h>
+	"Books.h"
+	"DataBase.h"
+	<algorithm>
+	<bits/stdc++.h>
+
+1575221206 d:\Рабочий стол\sabaq\proga\projecteng\lms\database.h
+	<vector>
+	<string>
+	"Books.h"
+
+1575220655 source:d:\Рабочий стол\sabaq\proga\projecteng\lms\database.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	<cstdlib>
+	<bits/stdc++.h>
+	"DataBase.h"
+	<array>
+
